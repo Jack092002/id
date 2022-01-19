@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+
+}
+p {
+    font-size: 1.25rem;
+}
+hr{
+  border-style: dotted none none;
+  color: grey;
+  border-width: 6px;
+  width: 20%;
+
+}
+.p-1 {
+  font-size: 1.50rem;
+}
+.ht {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+color: #1e836c;
+font-size: 3.4375rem;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size:1.875rem;
+  color: #1e836c;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #1e836c;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 150px;
+}
+.middle-container {
+  background-color: white;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.pf{
+  height: 130px;
+  position: relative;
+top: 30px;
+}
+.skill-row-1 {
+  position: relative;
+}
+
+.skill-row-2 {
+  position: relative;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+}
+
+.hs-1{
+    text-align: right;
+    padding-right: 525px;
+    font-size: 1.875rem;
+}
+.ps-1{
+  text-align: left;
+  padding-left: 800px;
+  font-size: 1.25rem;
+}
+.programmer {
+  height: 220px;
+  width: 400px;
+  position: absolute;
+  right: 800px;
+}
+.hs-2{
+  padding-left: 400px;
+  text-align: left;
+  font-size: 1.875rem;
+}
+.ps-2
+{
+  padding-left: 400px;
+  text-align: left;
+  font-size: 1.25rem;
+}
+.learning {
+  height: 220px;
+  width: 220px;
+  position: absolute;
+  right: 400px;
+}
